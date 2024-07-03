@@ -26,3 +26,5 @@ User and Group Creation: The create_user_and_groups function handles creating th
 ## Run/Test the script
 
 `sudo bash create_users.sh users.txt`
+
+For those interested in joining a vibrant community and gaining hands-on experience, check out the [HNG Internship](https://hng.tech/internship). If you're looking to hire talented developers, visit [HNG Hire](https://hng.tech/hire).
